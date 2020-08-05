@@ -1,7 +1,5 @@
 package com.lxd.niukework.Array;
 
-import javax.validation.constraints.Max;
-
 public class GetMaxAndMin {
     static int  Max;
     static int Min;

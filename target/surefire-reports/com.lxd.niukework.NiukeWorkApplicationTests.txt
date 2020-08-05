@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lxd.niukework.NiukeWorkApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.276 s - in com.lxd.niukework.NiukeWorkApplicationTests

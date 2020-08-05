@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NiuKe.iml" filepath="$PROJECT_DIR$/NiuKe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niuke-work.iml" filepath="$PROJECT_DIR$/niuke-work.iml" />
     </modules>
   </component>
 </project>
