@@ -7,189 +7,6 @@
     <list default="true" id="d6a678c1-3ff9-41b2-8492-2206c1854a4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/baidu/LargeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baidu/LargeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/B站/fourOperationGet24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/AaLi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/Arrays/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/CircleRightK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/FindDaoShuKelementOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/FindDaoShuKelementOfArray2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/GetMaxAndMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/MaxSubAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/findNotDoubleNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Array/xor_findDup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/ArrayListPKLinkedList/insert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/ArrayListTest/ArrayListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/AuRes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/BinaryTreeCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/BinaryTreeCreate1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/ConvertTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/FindPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/HasSubtree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/IsBalancedSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/IsBalanced_Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/Mirror.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/Node1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/Node2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/PrintFromTopToBottom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/TreeDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/initTreeOnPreOrderAndInOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/inorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/layerTranverseBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/postorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/BinaryTree/preorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/CurrentHashMap/TestCurrentHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/DeadLock/DeadLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Final/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/HashTable/TestHashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Heap/GetLeastNumbers_Solution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Heap/GetLeastNumbers_Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/HengSheng/WanShu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/InterfaceTest/InterfaceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/InterfaceTest/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/CloneDifficultLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/FindDSKElem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/FindLoopPort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/LinkIsLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/Merge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/ReverseLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/TwoLinkIsIntersect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/deleteDuplecateNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/deleteNoHeadNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Link/printListFromTailToHead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/NiukeWorkApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/PinDuoDuo/ChineseDinner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/PinDuoDuo/DiceSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/PinDuoDuo/GOToEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/SingalEntity/CreatSignalEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Sort/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Sort/Train.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Sort/insertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Sort/quickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/StringTest/FirstNotRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/StringTest/ReplaceSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/StringTest/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/StringTest/indexof.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/StringTest/toString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/TengXun/Gende.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/TengXun/ScannerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/CallTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo2$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo7$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Demo7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/MainThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/MainThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Resource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Resources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/Ticket2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/alibaba$PrintNumThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/alibaba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/alibaba2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/alibaba3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/prin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/print1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/print2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/saleT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/saleTicket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Thread/testThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/BinNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/list.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Train/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Volatile/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/Volatile/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/EqualOrNot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/First.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/MySql.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiNing/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiYunSuan/MPowerN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiYunSuan/countOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/WeiYunSuan/isPower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/abstractTest/foo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/abstractTest/foosub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/abstractTest1/abstractTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/abstractTest1/abstractTestimpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Base1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/CSturt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/EdGrundy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Selby.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/TestInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Tux.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/compile/Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/eBaoTeach/doubleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/setTest/setTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/temp/TestBufferClient3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/temp/TestBufferTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/temp/TestBufferTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/temp/TestBufferTest3Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/niukework/temp/TestChannel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/华为/MAIN1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/华为/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/华为/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/嘀嘀/abcacc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/嘀嘀/斐波那契.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/快手/stringReverseOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/快手/stringReverseOrder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/爱奇艺/directionIntersection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/爱奇艺/jieCheng0Num.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/爱奇艺/jiechengNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/爱奇艺/kuoHao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/爱奇艺/kuohao1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/猿辅导/BinNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/猿辅导/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/网易/GoodsDivide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/网易/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/网易/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/网易/SubFindAll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/美团/FindTravelNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/美团/InverseNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/美团/MaxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/腾讯/main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/触宝/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/触宝/main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/触宝/main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/触宝/main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lxd/触宝/main5.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -633,13 +450,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -726,6 +545,7 @@
       <workItem from="1598182830279" duration="15080000" />
       <workItem from="1598235726462" duration="24686000" />
       <workItem from="1608602424305" duration="1327000" />
+      <workItem from="1609323509469" duration="331000" />
     </task>
     <servers />
   </component>
