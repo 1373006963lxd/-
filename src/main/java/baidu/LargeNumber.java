@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @auther li xiao dong
  * @date 2020/3/29 0029 下午 22:00
  */
-//  获取最大数值
+//  得到最大数值
 
 
 public class LargeNumber {
