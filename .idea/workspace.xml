@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d6a678c1-3ff9-41b2-8492-2206c1854a4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/baidu/LargeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baidu/LargeNumber.java" afterDir="false" />
+=======
+>>>>>>> a0d3dc2ed231a7da3f7fdf1d78040077f2590242
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +353,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../es-example" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -544,8 +547,12 @@
       <workItem from="1597921190036" duration="33692000" />
       <workItem from="1598182830279" duration="15080000" />
       <workItem from="1598235726462" duration="24686000" />
+<<<<<<< HEAD
       <workItem from="1608602424305" duration="1327000" />
       <workItem from="1609323509469" duration="331000" />
+=======
+      <workItem from="1608602424305" duration="3560000" />
+>>>>>>> a0d3dc2ed231a7da3f7fdf1d78040077f2590242
     </task>
     <servers />
   </component>
